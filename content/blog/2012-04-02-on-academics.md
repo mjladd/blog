@@ -1,6 +1,6 @@
 ---
 title: "2012 04 02 on Academics"
-date: 2020-05-25T15:03:01-05:00
+date: 2012-04-02T15:03:01-05:00
 draft: false
 ---
 

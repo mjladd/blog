@@ -1,6 +1,6 @@
 ---
 title: "2008 06 27 Msit Graduation"
-date: 2020-05-25T14:05:04-05:00
+date: 2008-06-27T14:05:04-05:00
 draft: false
 ---
 

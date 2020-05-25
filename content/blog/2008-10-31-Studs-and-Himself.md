@@ -1,6 +1,6 @@
 ---
 title: "2008 10 31 Studs and Himself"
-date: 2020-05-25T14:05:04-05:00
+date: 2008-10-31T14:05:04-05:00
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2008 03 23 Stapled to the Bone"
-date: 2020-05-25T14:05:03-05:00
+date: 2008-03-23T14:05:03-05:00
 draft: false
 ---
 

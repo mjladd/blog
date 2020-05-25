@@ -1,6 +1,6 @@
 ---
 title: "2008 12 10 Wisdom of Fripp"
-date: 2020-05-25T14:05:04-05:00
+date: 2008-12-10T14:05:04-05:00
 draft: false
 ---
 

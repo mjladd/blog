@@ -1,6 +1,6 @@
 ---
-title: "005 10 20 Conference Misery"
-date: 2020-05-25T14:05:03-05:00
+title: "2005 10 20 Conference Misery"
+date: 2005-10-20T14:05:03-05:00
 draft: false
 ---
 

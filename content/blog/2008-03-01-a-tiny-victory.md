@@ -1,6 +1,6 @@
 ---
-title: "2008 03 01 a Tiny Victory"
-date: 2020-05-25T14:05:03-05:00
+title: "2008 03 01 A Tiny Victory"
+date: 2008-03-01T14:05:03-05:00
 draft: false
 ---
 

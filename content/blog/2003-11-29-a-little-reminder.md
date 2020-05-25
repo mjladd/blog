@@ -1,6 +1,6 @@
 ---
 title: "2003 11 29 a Little Reminder"
-date: 2020-05-25T14:05:02-05:00
+date: 2003-11-29T14:05:02-05:00
 draft: false
 ---
 

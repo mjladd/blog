@@ -1,6 +1,6 @@
 ---
 title: "2012 03 13 Changing Puppet Paths"
-date: 2020-05-25T15:03:00-05:00
+date: 2012-03-13T15:03:00-05:00
 draft: false
 ---
 
@@ -8,19 +8,23 @@ Making some progress in getting our puppet manifests under a capistrano script. 
 
 Before I could get capistrano set up, I needed to make sure that puppet was running out of a new path, since cap is going to be removing and recreating symlinks. 
 
-`mkdir /etc/puppet/current` <br>
-`mv /etc/puppet/* /etc/puppet/current`
+```
+mkdir /etc/puppet/current
+mv /etc/puppet/* /etc/puppet/current
 
-/etc/puppet/puppet.conf<br>
-`[main]`<br>
-`    tagmap = /etc/puppet/current/tagmail.conf` <br>
-`[master]`<br>
-`    modulepath = /etc/puppet/current/modules`<br>
+/etc/puppet/puppet.conf
+[main]
+    tagmap = /etc/puppet/current/tagmail.conf
+[master]
+    modulepath = /etc/puppet/current/modules
+```
 
 The missing piece was remembering that we run the puppetmaster out of passenger and passenger was not finding the path changes. 
 
-Adding the following to:<br>
-`/usr/share/puppet/rack/puppetmaster/config.ru`<br>
-`ARGV << "--confdir=/etc/puppet/current"`<br>
+Adding the following to:
+```
+/usr/share/puppet/rack/puppetmaster/config.ru
+ARGV << "--confdir=/etc/puppet/current"
+```
 
 A restart of httpd and all was well. The puppetmaster was running out of the new configuration path. The next step is to deploy the configuration via capistrano.

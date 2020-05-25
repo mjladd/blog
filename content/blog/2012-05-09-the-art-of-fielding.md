@@ -1,6 +1,6 @@
 ---
 title: "2012 05 09 the Art of Fielding"
-date: 2020-05-25T15:03:01-05:00
+date: 2012-05-09T15:03:01-05:00
 draft: false
 ---
 

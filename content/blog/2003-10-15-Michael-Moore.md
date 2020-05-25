@@ -1,6 +1,6 @@
 ---
 title: "2003 10 15 Michael Moore"
-date: 2020-05-25T14:05:02-05:00
+date: 2003-10-15T14:05:02-05:00
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2008 06 20 Day in Chicago"
-date: 2020-05-25T14:05:04-05:00
+date: 2008-06-20T14:05:04-05:00
 draft: false
 ---
 

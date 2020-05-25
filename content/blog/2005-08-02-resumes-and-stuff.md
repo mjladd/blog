@@ -1,6 +1,6 @@
 ---
 title: "2005 08 02 Resumes and Stuff"
-date: 2020-05-25T14:05:02-05:00
+date: 2005-08-02T14:05:02-05:00
 draft: false
 ---
 

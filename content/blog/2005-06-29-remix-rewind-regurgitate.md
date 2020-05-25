@@ -1,6 +1,6 @@
 ---
 title: "2005 06 29 Remix Rewind Regurgitate"
-date: 2020-05-25T14:05:02-05:00
+date: 2005-06-29T14:05:02-05:00
 draft: false
 ---
 

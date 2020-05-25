@@ -1,6 +1,6 @@
 ---
 title: "2011 02 06 Lyle Lovett vs Dwight Yoakam"
-date: 2020-05-25T14:05:05-05:00
+date: 2011-02-06T14:05:05-05:00
 draft: false
 ---
 
