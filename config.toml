@@ -16,12 +16,16 @@ theme = "hugo-xmin"
     url = "/reading/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Music"
+    url = "/music/"
     weight = 4 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Resume"
+    url = "/resume/"
+    weight = 5 
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
     weight = 5 
 [[menu.main]]
     name = "Subscribe"
