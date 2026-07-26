@@ -1,4 +1,4 @@
-baseURL = "https://mjladd.github.io"
+baseURL = "https://mjladd.com"
 locale = "en-us"
 title = "Michael Ladd (mjladd)"
 theme = "hugo-papermod"
