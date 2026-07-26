@@ -13,7 +13,7 @@ Skokie, IL | mjladd-at-gmail | [linkedin.com/in/mjladd](https://linkedin.com/in/
 
 Engineering leader with deep roots in ML infrastructure, data engineering, and DevOps — with a track record of building high-performance platforms from the ground up and leading teams that ship at pace. Most recently built and led the AWS SageMaker-based ML platform at NCSA/IMG Academy, driving MLOps practices, hands-on model development, and cross-functional collaboration across ML, Data Science, Data Engineering, and BI teams.
 
-Managed teams of up to 13 direct reports. Hired data engineers, BI engineers, data platform managers, and participated in VP-level hiring. Strong DevOps background grounds everything I do in reliability, observability, and operational excellence.
+Managed teams of up to 13 direct reports. Hired data engineers, and BI engineers. A strong DevOps background grounds everything I do in reliability, observability, and operational excellence.
 
 ---
 
