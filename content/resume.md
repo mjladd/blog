@@ -47,7 +47,7 @@ Led a Data Engineering organization responsible for designing and operationalizi
 **People & Recruiting**
 
 - Led and mentored 10–13 direct reports while managing contractors across Operations, Data Analytics, and Data Engineering
-- Responsible for hiring multiple Data Engineers and BI Engineers; participated in the selection of Data Platform Managers and Vice Presidents of Data
+- Responsible for hiring multiple Data Engineers and BI Engineers
 - Prioritized growth and learning as a people leader — proactively identified skill gaps and created development paths for team members
 
 **Reliability & Operational Excellence**
